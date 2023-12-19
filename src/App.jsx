@@ -1,9 +1,9 @@
-import Starter from "./tutorial/06-forms/starter/03-multiple-inputs";
+import NavBar from "./tutorial/09-context-api/starter/NavBar";
 
 function App() {
   return (
-    <div className="container">
-      <Starter />
+    <div className="">
+      <NavBar />
     </div>
   );
 }
